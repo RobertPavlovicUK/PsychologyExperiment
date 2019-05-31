@@ -1,0 +1,18 @@
+[Warning]
+Please make sure you have read the consent and agree to participate in this experiment.
+[Consent]
+
+[Study Info]
+This study is to test whether emotion affects verbal working memory and executive control ability. 
+
+The experiment will start with a practice section to get you familiar with the memory test, then we will step up to experimental section.
+
+[Experiment Practice]
+Please remember the words in their given order. (Each word will be shown for 2 seconds.)
+
+
+[Experiment Start]
+
+[VOICE]
+Please recall the words you remember in the given order
+(By using pressing start button, Machine is required to have microphone)

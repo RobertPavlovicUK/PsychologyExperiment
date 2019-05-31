@@ -1,0 +1,18 @@
+﻿<Page x:Class="PsychologyExperiment.QuestionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PsychologyExperiment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="QuestionPage">
+
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Label  x:Name="label" TextBlock.FontSize="20" Content="Label" HorizontalAlignment="Left" Height="162" Margin="117,109,0,0" VerticalAlignment="Top" Width="563"/>
+        <Button x:Name="neutral" Content="Start Neutral" HorizontalAlignment="Left" Margin="331,338,0,0" VerticalAlignment="Top" Width="119" Height="39" Click="Neutral_Click" />
+        <Button x:Name="positive" Content="Start Positive" HorizontalAlignment="Left" Margin="143,338,0,0" VerticalAlignment="Top" Width="119" Height="39" Click="Positive_Click" />
+        <Button x:Name="nega" Content="Start Negative" HorizontalAlignment="Left" Margin="526,338,0,0" VerticalAlignment="Top" Width="119" Height="39" Click="Nega_Click" />
+
+    </Grid>
+</Page>
